@@ -72,5 +72,3 @@ Tenho uma base sólida em lógica de programação, desenvolvimento web e infrae
 
 * 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — *SENAI São Caetano do Sul* (Jan. 2026 – Atual)
 * 🏫 **Ensino Médio Técnico em Informática** — *Colégio Dr. Clóvis Bevilácqua* (Concluído em Dez. 2025)
-
-]
