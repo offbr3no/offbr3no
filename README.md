@@ -1,35 +1,33 @@
-<!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img width="100%" src="https://vercel.app" />
 
-  <!-- ANIMAÇÃO DE DIGITAÇÃO -->
-  <img src="https://demolab.com!" alt="Typing animation" />
+# 👋 Olá! Eu sou o Breno Silva Chaves
 
-  <br/>
+### Estagiário de TI | Desenvolvedor Júnior • Estudante de ADS (SENAI)
 
-  <!-- BADGES DE STATUS -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+<p>
+  <img src="https://shields.io" alt="Open to Work" />
+  <img src="https://shields.io" alt="Foco" />
+  <img src="https://shields.io" alt="Localização" />
+</p>
 
-  <br/><br/>
-
-  <!-- BOTÕES DE CONTATO -->
+<p>
   <a href="mailto:brenobreno12e09@gmail.com">
-    <img src="https://shields.io" />
+    <img src="https://shields.io" alt="Email" />
   </a>
-  <a href="https://github.com/offbr3no">
-    <img src="https://shields.io" />
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="GitHub" />
   </a>
+</p>
+
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou **Breno Silva Chaves**, estudante de **Análise e Desenvolvimento de Sistemas** no **SENAI São Caetano do Sul** e Técnico em Informática formado pelo Colégio Dr. Clóvis Bevilácqua.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **SENAI São Caetano do Sul** e Técnico em Informática formado pelo Colégio Dr. Clóvis Bevilácqua.
 
-Tenho uma base sólida em lógica de programação, desenvolvimento web e infraestrutura. Gosto de transformar ideias em soluções práticas e estou em constante evolução para iniciar minha trajetória profissional no mercado de tecnologia.
+Tenho uma base sólida em lógica de programação, desenvolvimento web e infraestrutura. Gosto de transformar ideias em soluções práticas e estou em constante evolução para construir minha carreira na área de tecnologia.
 
 * 🎯 **Objetivo:** Conquistar uma oportunidade de **Estágio em TI / Desenvolvimento Júnior** para aplicar meus conhecimentos na prática, aprender com equipes experientes e gerar valor em projetos reais.
 * 🌱 **Atualmente estudando:** Desenvolvimento Web, Programação Orientada a Objetos com Java, bancos de dados relacionais e computação em nuvem.
@@ -39,23 +37,34 @@ Tenho uma base sólida em lógica de programação, desenvolvimento web e infrae
 ### 💻 Tech Stack
 
 #### **Linguagens & Desenvolvimento Web**
-<div align="left">
-  <img src="https://skillicons.dev" />
-</div>
+<p>
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Bootstrap" />
+</p>
 
 #### **Banco de Dados, Cloud & Ferramentas**
-<div align="left">
-  <img src="https://skillicons.dev" />
-</div>
+<p>
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="AWS" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
 
 ---
 
 ### 🚀 Projetos & Experiência Acadêmica
 
 * 🌐 **Projeto Integrador (ADS - SENAI):** Desenvolvimento colaborativo de um site institucional para uma igreja, focado na organização e divulgação de informações.
-* 💻 **Projeto de Desenvolvimento Web (ADS):** Criação de aplicações web responsivas aplicando HTML5, CSS3, Bootstrap e JavaScript ([ver repositórios](https://github.com)).
+* 💻 **Projeto de Desenvolvimento Web (ADS):** Criação de aplicações web responsivas aplicando HTML5, CSS3, Bootstrap e JavaScript ([ver repositórios](https://github.com?tab=repositories)).
 * 📈 **TCC Técnico em Informática:** Desenvolvimento em equipe de uma plataforma web educativa voltada ao ensino de conceitos básicos de investimentos.
-* ☕ **Exercícios de Lógica e Java:** Prática contínua de algoritmos, estruturas de dados e POO ([`exercicios.lip`](https://github.com)).
+* ☕ **Exercícios de Lógica e Java:** Prática contínua de algoritmos, estruturas de dados e POO ([`exercicios.lip`](https://github.com/exercicios.lip)).
 
 ---
 
@@ -64,12 +73,4 @@ Tenho uma base sólida em lógica de programação, desenvolvimento web e infrae
 * 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — *SENAI São Caetano do Sul* (Jan. 2026 – Atual)
 * 🏫 **Ensino Médio Técnico em Informática** — *Colégio Dr. Clóvis Bevilácqua* (Concluído em Dez. 2025)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://vercel.app" />
-  <img height="165" src="https://vercel.app" />
-</div>
-
+]
