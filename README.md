@@ -4,20 +4,9 @@
 
 ### Estagiário de TI | Desenvolvedor Júnior • Estudante de ADS (SENAI)
 
-<p>
-  <img src="https://shields.io" alt="Open to Work" />
-  <img src="https://shields.io" alt="Foco" />
-  <img src="https://shields.io" alt="Localização" />
-</p>
+📍 **São Paulo – SP, Brasil** | 🟢 **Aberto a oportunidades de Estágio em TI**
 
-<p>
-  <a href="mailto:brenobreno12e09@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-</p>
+📧 **E-mail:** brenobreno12e09@gmail.com | 💻 **GitHub:** [@offbr3no](https://github.com)
 
 </div>
 
@@ -38,23 +27,23 @@ Tenho uma base sólida em lógica de programação, desenvolvimento web e infrae
 
 #### **Linguagens & Desenvolvimento Web**
 <p>
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Bootstrap" />
+  <img src="https://githubusercontent.com" alt="Java" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Python" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="PHP" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Bootstrap" width="40" height="40" />
 </p>
 
 #### **Banco de Dados, Cloud & Ferramentas**
 <p>
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://githubusercontent.com" alt="MySQL" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="AWS" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Docker" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" />
+  <img src="https://githubusercontent.com" alt="VS Code" width="40" height="40" />
 </p>
 
 ---
